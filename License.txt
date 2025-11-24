@@ -1,0 +1,33 @@
+🌟 結び (Musubi) Newsletter
+Custom Proprietary License
+
+Copyright (c) 2025 Naman Dixit
+
+All Rights Reserved.
+
+1. Ownership & Authorship
+   - The Musubi newsletter Formatt and architecture and writing tone and all related intellectual property
+     are the sole creation, property, and ownership of Naman Dixit.
+   - No other individual or entity may claim authorship or ownership.
+
+2. Usage Restrictions
+   - Any use, copying, modification, distribution, or publication of
+     any part of this project without explicit written permission from
+     Naman Dixit is strictly prohibited.
+   - This includes, but is not limited to, software repositories, forks,
+     derivatives, or any form of public/private deployment.
+
+4. Publication & Public Release
+   - Until formal publication or explicit declaration by Naman Dixit,
+     this work must remain private and protected.
+   - After publication, the author may choose to release the work publicly
+     or under different terms.
+
+5. Liability & Warranty
+   - The Musubi newsletter Formatt and architecture and writing tone are provided "as is."
+   - The author makes no warranties regarding functionality, safety,
+     or fitness for a particular purpose.
+
+By using, viewing, or interacting with this repository, you agree to
+these terms. Unauthorized use may result in legal action under
+applicable intellectual property laws.
