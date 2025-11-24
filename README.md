@@ -7,9 +7,9 @@ This Repository Contains the details about Newsletter - Musubi .
 
 ---
 
-Author & Owner: Naman Dixit 
-Date of Declaration: November 23, 2025
-License: Custom Proprietary — All Rights Reserved  .
-All rights are reserved until formal publication. Unauthorized use , copying , sharing, modification, or redistribution is strictly prohibited.
-Email: namandixit0000@gmail.com , namandixiit07@gmail.com 
-All rights reserved. Musubi Newsletter is protected under CopyRight Act and applicable intellectual property laws. Unauthorized use is strictly prohibited. 
+* Author & Owner: Naman Dixit 
+* Date of Declaration: November 23, 2025
+* License: Custom Proprietary — All Rights Reserved  .
+* All rights are reserved until formal publication. Unauthorized use , copying , sharing, modification, or redistribution is strictly prohibited.
+* Email: namandixit0000@gmail.com , namandixiit07@gmail.com 
+* All rights reserved. Musubi Newsletter is protected under CopyRight Act and applicable intellectual property laws. Unauthorized use is strictly prohibited. 
